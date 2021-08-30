@@ -51,7 +51,7 @@ MacBook Pro(2019) / Monterey / Intel
 
 ![macOS Monterey](./imgs/overview/macos-monterey.jpg)
 
-macOS(맥 오에스)는 Apple이 개발한 Mac 컴퓨터의 기본 운영 체제<sup>Operating System</sup>입니다. Apple이 하드웨어(Mac)와 소프트웨어(macOS)를 둘다 만들기 때문에 시스템이 안정적이고 사용자 경험이 좋습니다.
+macOS(맥 오에스)는 Apple이 개발한 Mac 컴퓨터의 기본 운영 체제<sup>Operating System</sup>입니다. Apple이 하드웨어(Mac)와 소프트웨어(macOS)를 둘 다 만들기 때문에 시스템이 안정적이고 사용자 경험이 좋습니다.
 
 유닉스<sup>Unix</sup> 계열의 운영체제로 터미널이 강력하고 개발에 적합한 생태계를 제공합니다. Windows 또한 좋은 개발환경을 제공하지만 macOS에 비해 개발 환경을 구축하는데 시간이 더 걸리거나 번거로운 경우가 많습니다.
 

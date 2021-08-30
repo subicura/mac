@@ -23,7 +23,7 @@ macOS에서 앱 설치는 앱을 `Applications` 폴더로 복사하는 정도고
 
 iOS, Android 앱 설치와 동일한 방식입니다.
 
-애플에서 만든 앱들(Pages, Numbers, Keynote, iMovie, ...)과 Xcode, 카카오톡등이 앱스토어로 제공됩니다.
+애플에서 만든 앱들(Pages, Numbers, Keynote, iMovie, ...)과 Xcode, 카카오톡 등이 앱스토어로 제공됩니다.
 
 :::tip Apple Silicon (M1)
 Apple Silicon 기반 Mac에 iOS 앱을 설치할 수 있습니다. (제조사에서 허용해야 가능)

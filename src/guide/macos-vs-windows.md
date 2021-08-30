@@ -10,7 +10,7 @@ image: /imgs/share.png
 :::tip 요약
 
 - **장점**: 애플 생태계, 이쁘고, 터미널 좋고 편하고 M1 가성비 좋음
-- **단점**: 게임, 문서, 공공기관, GPU 관련 작업 어렵고 자잘한 한글, 모니터, 마우스등 호환성 이슈와 A/S 비용이 비쌈
+- **단점**: 게임, 문서, 공공기관, GPU 관련 작업 어렵고 자잘한 한글, 모니터, 마우스 등 호환성 이슈와 A/S 비용이 비쌈
 
 :::
 
@@ -20,7 +20,7 @@ image: /imgs/share.png
 
 ![Apple](./imgs/macos-vs-windows/apple_logo.png)
 
-- 애플이 만듦 ~~스타벅스 출입가능~~
+- 애플이 만듦 ~~스타벅스 출입 가능~~
 - iPhone, iPad, Apple Watch 연동
   - 별도 프로그램 설치 없이 기본으로 [연속성 기능](https://support.apple.com/ko-kr/HT204681) 제공
   - [Handoff](https://support.apple.com/ko-kr/HT209455), [공통클립보드](https://support.apple.com/ko-kr/HT209460), [iPhone 셀룰러 통화](https://support.apple.com/ko-kr/HT209456), [문자 메시지 전달](https://support.apple.com/ko-kr/HT208386), [Instant Hotspot](https://support.apple.com/ko-kr/HT209459) 등
