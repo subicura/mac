@@ -1,0 +1,248 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+
+@import url(//cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css);
+
+@font-face {
+  font-family: "NerdFontsSymbols Nerd Font";
+  /* @TODO you need to adjust the path to the font: */
+  src: local("Knack Nerd Font"),
+    url("/mac/fonts/Symbols-2048-em-Nerd-Font-Complete.ttf")
+      format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.home .features-4 .feature
+  flex-basis 25%
+
+.app-icons
+  float left
+  text-align center
+  margin-bottom 0
+  margin-right 10px
+  height 180px
+  img
+    width 100px
+    max-width 100%
+  p
+    margin 0
+    font-size 14px
+
+.image-150
+  text-align center
+  margin-top 15px
+  img
+    width 150px
+    max-width 100%
+
+.image-200
+  text-align center
+  margin-top 15px
+  img
+    width 200px
+    max-width 100%
+
+.image-250
+  text-align center
+  margin-top 15px
+  img
+    width 250px
+    max-width 100%
+
+.image-300
+  text-align center
+  margin-top 15px
+  img
+    width 300px
+    max-width 100%
+
+.image-350
+  text-align center
+  margin-top 15px
+  img
+    width 350px
+    max-width 100%
+
+.image-400
+  text-align center
+  margin-top 15px
+  img
+    width 400px
+    max-width 100%
+
+.image-450
+  text-align center
+  margin-top 15px
+  img
+    width 450px
+    max-width 100%
+
+.image-600
+  text-align center
+  margin-top 15px
+  img
+    width 600px
+    max-width 100%
+
+.image-650
+  text-align center
+  margin-top 15px
+  img
+    width 650px
+    max-width 100%
+
+.theme-container
+  .no-radius
+    img
+      border-radius 0
+
+.no-radius
+  img
+    border-radius 0
+
+.home .hero img
+  max-width 450px!important
+
+.home .hero h1
+  background -webkit-linear-gradient(-70deg, #9867f0, #ed4e50)
+  -webkit-background-clip text
+  background-clip text
+  -webkit-text-fill-color transparent
+  -webkit-box-decoration-break clone
+  font-weight bold
+
+body
+  font-family "Pretendard", "Apple SD Neo Gothic", "Malgun Gothic", "맑은고딕", Dotum, "돋움", BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+  font-weight 400
+  letter-spacing -0.02em
+
+strong
+  font-weight 500
+
+.navbar .site-name
+  padding-top 1px
+
+.custom-block 
+  font-size 15px
+
+.theme-container
+  .home .hero img
+    max-width 100%
+    max-height 350px
+    display block
+    margin 1rem auto 1.5rem
+    @media (max-width: $MQMobileNarrow)
+      max-height 300px
+  .home .hero h1, .home .hero .description
+    margin 0.8rem auto
+  .home .hero .action
+    margin 1.8rem auto
+  .home .hero .description
+    @media (max-width: $MQMobileNarrow)
+      font-size 1rem
+  .home .feature
+    @media (max-width: $MQMobileNarrow)
+      padding 0 0.5rem
+  code, kbd, .line-number
+    font-family source-code-pro, Menlo, Monaco, Consolas, "Courier New", "Pretendard", monospace
+  .sidebar .nav-links .repo-link, .navbar a.repo-link
+    display none
+  img
+    border-radius 6px
+  img.no-radius
+    border-radius 0
+
+.usage-msg
+  font-family Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', "Pretendard", monospace
+  padding .5rem 1.0rem
+  border 1px solid #ddd
+  border-radius 4px
+  text-align center
+  font-size 14px
+
+.code-link
+  font-size 15px
+
+pre.mermaid-container, pre[class*="language-"].mermaid-container
+  padding: 0.25rem 0.5rem
+  background: #fff
+
+.yuu-theme-dark
+  pre.mermaid-container, pre[class*="language-"].mermaid-container
+    background: #fff;
+    
+.inflearn-out-link
+  padding 0.5rem 0 0.5rem 1.5rem
+  .discount
+    position relative
+    top -2px
+    padding-left 0
+    display inline-block
+    font-size 11px
+    padding 0 5px
+    border-radius 10px
+    background-color #e74c3c
+    color #ffffff
+    line-height: 1.2rem;
+
+.asciinema-component
+  text-align: center;
+  
+.asciinema-terminal_wrapper
+  position: relative;
+  display: inline-block;
+  padding: 4px;
+  border: 1px solid #999;
+  border-radius: 6px;
+  background-color: #121314;
+  max-width: 100%;
+  .asciiname-player, .asciinema-terminal
+    padding: 0;
+
+.theme-default-content pre.asciinema-terminal, .theme-default-content pre[class*="language-"].asciinema-terminal
+  line-height: 1.3333333333em;
+  margin: 0;
+  border-radius: 0;
+
+.asciinema-terminal_header
+  position: relative;
+  display: flex;
+  height: 34px;
+  align-items: center;
+  text-align: center;
+
+
+.asciinema-terminal_btn
+  border-radius: 50%;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+
+
+.asciinema-terminal_btn_1
+  background: #ff5f56;
+  margin-left: 10px;
+
+
+.asciinema-terminal_btn_2
+  background: #ffbd2e;
+  margin-left: 4px;
+
+
+.asciinema-terminal_btn_3
+  background: #27c93f;
+  margin-left: 4px;
+
+
+.asciinema-terminal_title
+  color: #eee;
+  flex: 1 1 0%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-size: 12px;
