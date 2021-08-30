@@ -52,7 +52,7 @@ Native vs Rosetta
 - MacBook Air 2020 / M1 / Node.js 16.8.0 (arm64 build): `8.1s`
 - MacBook Air 2020 / M1 / Node.js 16.8.0 (x86_64 build) Rosetta 2: `16.9s`
 
-Intel Sample
+Intel Processor Sample
 
 - MacBook Pro 2019 / 2.6 GHz 6-Core Intel Core i7 / Node.js 16.8.0: `14.4s`
 - iMac 2020 / 3.8 GHz 8-Core Intel Core i7 / Node.js 16.8.0: `11.5s`
