@@ -1,3 +1,8 @@
+---
+description: 자동 설정 스크립트를 알아봅니다.
+image: /imgs/share.png
+---
+
 # 자동 설정 스크립트
 
 macOS는 각종 설정을 보통 `~/Library/Preferences` 폴더에 `.plist` 파일로 관리합니다. 시스템 및 파인더 설정도 동일한 방식을 사용하고 `defaults` 명령어로 설정할 수 있기 때문에 스크립트로 자동화 할 수 있습니다.

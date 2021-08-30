@@ -1,5 +1,5 @@
 ---
-description: 처음 만나는 Mac
+description: Mac 소개
 image: /imgs/share.png
 ---
 

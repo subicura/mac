@@ -1,5 +1,5 @@
 ---
-description: macOS 보안에 대해 소개합니다.
+description: macOS 보안에 대해 알아봅니다.
 image: /imgs/share.png
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: macOS 단축키를 소개합니다.
+description: macOS 단축키를 알아봅니다.
 image: /imgs/share.png
 ---
 

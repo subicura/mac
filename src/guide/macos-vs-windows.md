@@ -1,5 +1,5 @@
 ---
-description: Windows와 비교하여 macOS의 장점과 단점을 알아봅니다.
+description: macOS의 장점과 단점을 알아봅니다.
 image: /imgs/share.png
 ---
 

@@ -35,7 +35,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
 
-플러그인을 설치하면 반드시 `~/.zshrc`파일에 설정을 해야합니다. 파일을 열고 `plugins`항목에 플러그인을 추가합니다.
+플러그인을 설치하면 반드시 `~/.zshrc`파일에 설정을 해야 합니다. 파일을 열고 `plugins`항목에 플러그인을 추가합니다.
 
 ```sh
 plugins=(

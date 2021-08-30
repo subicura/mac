@@ -1,5 +1,5 @@
 ---
-description: macOS 앱 설치/실행/삭제 방법을 소개합니다.
+description: macOS 앱 설치/실행/삭제 방법을 알아봅니다.
 image: /imgs/share.png
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: macOS 설치 과정을 소개합니다.
+description: macOS 설치 과정을 알아봅니다.
 image: /imgs/share.png
 ---
 

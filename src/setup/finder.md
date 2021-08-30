@@ -1,5 +1,5 @@
 ---
-description: 유용한 시스템 설정을 알아봅니다.
+description: 유용한 Finder 설정을 알아봅니다.
 image: /imgs/share.png
 ---
 
