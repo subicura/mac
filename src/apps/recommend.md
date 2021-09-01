@@ -19,6 +19,12 @@ brew install --cask 1password
 
 [공식 홈페이지](https://1password.com/)
 
+## Amphetamine <Badge text="무료" />
+
+가장 강력한 잠깨우기 앱 (Sleep 모드 진입 잠시 막기)
+
+[앱스토어](https://apps.apple.com/kr/app/amphetamine/id937984704?mt=12)
+
 ## Bandizip <Badge text="유료" />
 
 유명한 압축 프로그램
@@ -48,6 +54,18 @@ brew install --cask bartender
 대화, 영상 채팅, 모임 도구
 
 [공식 홈페이지](https://discord.com/)
+
+## eul <Badge text="무료" />
+
+macOS 상태창 모니터링 툴
+
+**설치**
+
+```sh
+brew install --cask eul
+```
+
+[공식 홈페이지](https://github.com/gao-sun/eul)
 
 ## htop <Badge text="무료" />
 
