@@ -131,6 +131,15 @@ iTerm에서 Shell 정보를 가져오도록 `iTerm2` > `Install Shell Integratio
 
 </div>
 
+::: tip 스크립트 추가하기
+`Shell Integration`이 정상적으로 동작하지 않는다면 다음 코드를 `.zshrc`에 입력해주세요.
+
+```sh
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+```
+
+:::
+
 설치가 완료되면, 다음 명령어를 입력하여 프로세서 아키텍처 명령어(`uname -m`)를 `\(user.cpu)`로 연동합니다.
 
 ```sh
