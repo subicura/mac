@@ -49,7 +49,7 @@ brew<sup>homebrew</sup>는 각종 커맨드라인 프로그램과 일반 애플�
 **설치**
 
 ```sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 터미널을 재시작합니다.
