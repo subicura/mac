@@ -4,7 +4,7 @@ heroImage: /imgs/mac_hero.png
 tagline: 본격 macOS에 개발 환경 구축하기
 actionText: 시작하기 →
 actionLink: /guide/
-footer: ⓒ 2021 by subicura
+footer: ⓒ 2022 by subicura
 
 description: 초보를 위한 macOS 안내서
 image: /imgs/share.png
