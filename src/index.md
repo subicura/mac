@@ -38,25 +38,25 @@ macOS의 기본적인 사용법을 소개하고 터미널부터 각종 앱까지
 
 <div class="features features-4" style="align-items: center">
   <div class="feature" style="text-align: center">
-    <a href="https://subicura.com/2021/06/27/study-guide.html">
+    <a href="https://subicura.com/2021/06/27/study-guide.html?utm_source=subicura.com&utm_medium=referral&utm_campaign=mac">
       <img :src="$withBase('/imgs/web_hero.png')" />
       <p style="margin-top: 0">웹 개발자 학습 안내서</p>
     </a>
   </div>
   <div class="feature" style="text-align: center">
-    <a href="https://subicura.com/git/">
+    <a href="https://subicura.com/git/?utm_source=subicura.com&utm_medium=referral&utm_campaign=mac">
       <img :src="$withBase('/imgs/git_hero.png')" />
       <p style="margin-top: 0">Git / GitHub 안내서</p>
     </a>
   </div>
   <div class="feature" style="text-align: center">
-    <a href="https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html">
+    <a href="https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html?utm_source=subicura.com&utm_medium=referral&utm_campaign=mac">
       <img :src="$withBase('/imgs/docker_hero.png')" />
       <p style="margin-top: 0">도커 안내서</p>
     </a>
   </div>
   <div class="feature" style="text-align: center">
-    <a href="https://subicura.com/k8s/">
+    <a href="https://subicura.com/k8s/?utm_source=subicura.com&utm_medium=referral&utm_campaign=mac">
       <img :src="$withBase('/imgs/k8s_hero.png')" />
       <p style="margin-top: 0">쿠버네티스 안내서</p>
     </a>

@@ -31,7 +31,7 @@
     -->
 
     <a
-      href="https://subicura.com"
+      href="https://subicura.com?utm_source=subicura.com&utm_medium=referral&utm_campaign=mac"
       class="inflearn-out-link"
       style="cursor: pointer"
       target="_blank"
