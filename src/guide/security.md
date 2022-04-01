@@ -11,7 +11,7 @@ macOS는 앱을 실행 할 때 세부적인 권한을 체크합니다.
 
 <div class="image-350 no-radius">
 
-![Open](./imgs/security/open.png)
+<custom-image src="/imgs/security/open.jpg" alt="Open" />
 
 </div>
 
@@ -25,7 +25,7 @@ macOS는 앱을 실행 할 때 세부적인 권한을 체크합니다.
 
 <div class="image-350 no-radius">
 
-![Blocked Allow](./imgs/security/block-popup.png)
+<custom-image src="/imgs/security/block-popup.png" alt="Blocked Allow" />
 
 </div>
 
@@ -33,7 +33,7 @@ macOS는 앱을 실행 할 때 세부적인 권한을 체크합니다.
 
 <div class="image-600 no-radius">
 
-![Blocked Allow](./imgs/security/blocked.png)
+<custom-image src="/imgs/security/blocked.png" alt="Blocked Allow" />
 
 </div>
 
@@ -45,23 +45,29 @@ macOS는 앱을 실행 할 때 세부적인 권한을 체크합니다.
 
 <div class="image-350 no-radius">
 
-![Access](./imgs/security/access.png)
+<div>
+  <custom-image src="/imgs/security/access.png" alt="Access" />
+</div>
 
-![Camera](./imgs/security/camera.png)
+<div>
+  <custom-image src="/imgs/security/camera.png" alt="Camera" />
+</div>
 
-![Microphone](./imgs/security/microphone.png)
+<div>
+  <custom-image src="/imgs/security/microphone.png" alt="Microphone" />
+</div>
 
 </div>
 
 <div class="image-450 no-radius">
 
-![Open Security](./imgs/security/open-security.png)
+<custom-image src="/imgs/security/open-security.png" alt="Open Security" />
 
 </div>
 
 <div class="image-600 no-radius">
 
-![Privacy](./imgs/security/privacy-tab.png)
+<custom-image src="/imgs/security/privacy-tab.png" alt="Privacy" />
 
 </div>
 
@@ -69,7 +75,7 @@ macOS는 앱을 실행 할 때 세부적인 권한을 체크합니다.
 
 <div class="image-350 no-radius">
 
-![Notification](./imgs/security/notification.png)
+<custom-image src="/imgs/security/notification.png" alt="Notification" />
 
 </div>
 

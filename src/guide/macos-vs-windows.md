@@ -18,7 +18,7 @@ image: /imgs/share.png
 
 **애플**
 
-![Apple](./imgs/macos-vs-windows/apple_logo.png)
+<custom-image src="/imgs/macos-vs-windows/apple_logo.png" alt="Apple" />
 
 - 애플이 만듦 ~~스타벅스 출입 가능~~
 - iPhone, iPad, Apple Watch 연동
@@ -39,7 +39,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![neofetch](./imgs/macos-vs-windows/neofetch.png)
+<custom-image src="/imgs/macos-vs-windows/neofetch.png" alt="neofetch" />
 
 </div>
 
@@ -58,7 +58,7 @@ image: /imgs/share.png
 
 <div class="image-300 no-radius">
 
-![TrackPad Gensture](./imgs/macos-vs-windows/trackpad2-mission-control.png)
+<custom-image src="/imgs/macos-vs-windows/trackpad2-mission-control.png" alt="TrackPad Gensture" />
 
 </div>
 

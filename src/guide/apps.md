@@ -19,7 +19,7 @@ macOS에서 앱 설치는 앱을 `Applications` 폴더로 복사하는 정도고
 
 **App Store**
 
-![AppStore](./imgs/apps/appstore.png)
+<custom-image src="/imgs/apps/appstore.png" alt="AppStore" />
 
 iOS, Android 앱 설치와 동일한 방식입니다.
 
@@ -33,7 +33,7 @@ Apple Silicon 기반 Mac에 iOS 앱을 설치할 수 있습니다. (제조사에
 
 <div class="image-600 no-radius">
 
-![Chrome 설치](./imgs/apps/chrome-dmg.png)
+<custom-image src="/imgs/apps/chrome-dmg.png" alt="Chrome 설치" />
 
 </div>
 
@@ -53,8 +53,8 @@ Apple Silicon 기반 Mac에 iOS 앱을 설치할 수 있습니다. (제조사에
 
 <div class="image-600 no-radius">
 
-![Karabiner 설치](./imgs/apps/karabiner-pkg.png)
-![Karabiner 설치](./imgs/apps/karabiner-install.png)
+<custom-image src="/imgs/apps/karabiner-pkg.png" alt="Karabiner 설치" />
+<custom-image src="/imgs/apps/karabiner-install.png" alt="Karabiner 설치" />
 
 </div>
 
@@ -64,7 +64,7 @@ Apple Silicon 기반 Mac에 iOS 앱을 설치할 수 있습니다. (제조사에
 
 <div class="image-600 no-radius">
 
-![Parallels 설치](./imgs/apps/parallels-install.png)
+<custom-image src="/imgs/apps/parallels-install.png" alt="Parallels 설치" />
 
 </div>
 
@@ -85,19 +85,19 @@ brew install --cask maccy
 
 **Launchpad**
 
-![Launchpad](./imgs/apps/launchpad.jpg)
+<custom-image src="/imgs/apps/launchpad.jpg" alt="Launchpad" />
 
 - 엄지와 세 손가락 모아서 Launchpad를 실행합니다.
 
 **Dock**
 
-![Launchpad](./imgs/apps/dock.jpg)
+<custom-image src="/imgs/apps/dock.jpg" alt="Dock" />
 
 - 자주 사용하는 앱을 Dock에 등록하고 사용합니다.
 
 **Applications Folder**
 
-![Launchpad](./imgs/apps/application.png)
+<custom-image src="/imgs/apps/application.jpg" alt="Launchpad" />
 
 - Finder에서 Applications 폴더를 열고 앱을 실행합니다.
 
@@ -105,7 +105,7 @@ brew install --cask maccy
 
 <div class="image-450 no-radius">
 
-![Launchpad](./imgs/apps/alfred.png)
+<custom-image src="/imgs/apps/alfred.jpg" alt="Alfred" />
 
 </div>
 
@@ -115,7 +115,7 @@ brew install --cask maccy
 
 **Launchpad**
 
-![Launchpad](./imgs/apps/launchpad-delete.jpg)
+<custom-image src="/imgs/apps/launchpad-delete.jpg" alt="Launchpad" />
 
 앱스토어에서 설치한 앱을 삭제하는 방법입니다. 아이콘을 오랫동안 누르고 있으면 아이콘이 흔들흔들하면서 좌측 상단에 `X` 표시가 뜹니다.
 

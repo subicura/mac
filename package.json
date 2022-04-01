@@ -9,6 +9,7 @@
   },
   "repository": "git@github.com:subicura/mac.git",
   "scripts": {
+    "convert": "node script/convert.mjs",
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
@@ -16,6 +17,10 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
     "@vuepress/plugin-medium-zoom": "^1.8.2",
+    "imagemin": "^8.0.1",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-webp": "^7.0.0",
     "vuepress": "^1.5.3",
     "vuepress-plugin-mermaidjs": "^1.8.1"
   },

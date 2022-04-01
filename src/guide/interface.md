@@ -11,13 +11,13 @@ macOS 기본 인터페이스를 소개합니다.
 
 ## 화면
 
-![Interface](./imgs/interface/interface.jpg)
+<custom-image src="/imgs/interface/interface.jpg" alt="Interface" />
 
 **Apple 메뉴**
 
 <div class="image-250" style="text-align: left">
 
-![Apple Menu](./imgs/interface/apple-menu.jpg)
+<custom-image src="/imgs/interface/apple-menu.jpg" alt="Apple Menu" />
 
 </div>
 
@@ -27,13 +27,13 @@ macOS 기본 인터페이스를 소개합니다.
 
 <div class="image-400" style="text-align: left; margin-bottom: -13px">
 
-![Finder Menu](./imgs/interface/app-menu-finder.jpg)
+<custom-image src="/imgs/interface/app-menu-finder.jpg" alt="Finder Menu" />
 
 </div>
 
 <div class="image-650" style="text-align: left">
 
-![Chrome Menu](./imgs/interface/app-menu-chrome.jpg)
+<custom-image src="/imgs/interface/app-menu-chrome.jpg" alt="Chrome Menu" />
 
 </div>
 
@@ -42,9 +42,9 @@ macOS 기본 인터페이스를 소개합니다.
 
 **데스크탑**
 
-<div class="image-250" style="text-align: left">
+<div class="image-350" style="text-align: left">
 
-![Desktop](./imgs/interface/desktop.jpg)
+<custom-image src="/imgs/interface/desktop.jpg" alt="Desktop" />
 
 </div>
 
@@ -53,9 +53,9 @@ macOS 기본 인터페이스를 소개합니다.
 
 **Finder 윈도우**
 
-<div class="image-250" style="text-align: left">
+<div class="image-350" style="text-align: left">
 
-![Finder](./imgs/interface/finder.png)
+<custom-image src="/imgs/interface/finder.png" alt="Finder" />
 
 </div>
 
@@ -65,7 +65,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 <div class="image-450 no-radius" style="text-align: left">
 
-![Status Menu](./imgs/interface/status-menu.jpg)
+<custom-image src="/imgs/interface/status-menu.jpg" alt="Status Menu" />
 
 </div>
 
@@ -78,7 +78,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 <div class="image-250 no-radius" style="text-align: left">
 
-![Control Center](./imgs/basic/control-center.png)
+<custom-image src="/imgs/basic/control-center.png" alt="Control Center" />
 
 </div>
 
@@ -90,7 +90,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 <div class="image-250 no-radius" style="text-align: left">
 
-![Status Menu](./imgs/interface/widget.jpg)
+<custom-image src="/imgs/interface/widget.jpg" alt="Status Menu" />
 
 </div>
 
@@ -101,7 +101,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 <div class="image-150 no-radius" style="text-align: left">
 
-![Finder](./imgs/icons/finder.png)
+<custom-image src="/imgs/icons/finder.png" alt="Finder" />
 
 </div>
 
@@ -111,7 +111,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 <div class="image-150 no-radius" style="text-align: left">
 
-![System Preferences](./imgs/icons/system_preferences.png)
+<custom-image src="/imgs/icons/system_preferences.png" alt="System Preferences" />
 
 </div>
 
@@ -119,7 +119,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 **Dock**
 
-![Dock](./imgs/basic/dock.jpg)
+<custom-image src="/imgs/basic/dock.jpg" alt="Dock" />
 
 - 실행 중인 앱을 보여주고 자주 사용하는 앱의 바로가기를 제공합니다.
 - 오른쪽 버튼을 누르고 Dock에 고정하거나 제거할 수 있습니다.
@@ -131,7 +131,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 미션 컨트롤을 이용하여 가상 데스크탑을 여러 개 사용합니다.
 
-![Spaces](./imgs/basic/spaces.jpg)
+<custom-image src="/imgs/basic/spaces.jpg" alt="Spaces" />
 
 - 터치패드에서 네 손가락을 아래에서 위로 움직이면 미션 컨트롤이 나타납니다.
 - 상단에 현재 생성된 Spaces 목록을 확인합니다.
@@ -174,9 +174,9 @@ macOS 기본 인터페이스를 소개합니다.
 
 **이모지 입력**
 
-<div class="image-250 no-radius">
+<div class="image-300 no-radius">
 
-![Emoji](./imgs/interface/emoji-popup.png)
+<custom-image src="/imgs/interface/emoji-popup.png" alt="Emoji" />
 
 </div>
 
@@ -184,7 +184,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 <div class="image-250 no-radius">
 
-![Emoji](./imgs/interface/emoji.png)
+<custom-image src="/imgs/interface/emoji.png" alt="Emoji" />
 
 </div>
 
@@ -192,7 +192,7 @@ macOS 기본 인터페이스를 소개합니다.
 
 <div class="image-250 no-radius">
 
-![Emoji](./imgs/interface/menu-emoji.png)
+<custom-image src="/imgs/interface/menu-emoji.png" alt="Emoji" />
 
 </div>
 

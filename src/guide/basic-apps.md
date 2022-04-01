@@ -17,7 +17,7 @@ Pages, Keynote, Numbers, iMovie는 App Store에서 무료로 다운로드할 수
 
 <div class="app-icons">
 
-![Calculator](./imgs/icons/calculator.png)
+<custom-image src="/imgs/icons/calculator.png" alt="Calculator" />
 
 계산기  
 Calculator
@@ -26,7 +26,7 @@ Calculator
 
 <div class="app-icons">
 
-![Reminders](./imgs/icons/reminders.png)
+<custom-image src="/imgs/icons/reminders.png" alt="Reminders" />
 
 미리알림  
 Reminders
@@ -35,7 +35,7 @@ Reminders
 
 <div class="app-icons">
 
-![Stickies](./imgs/icons/stickies.png)
+<custom-image src="/imgs/icons/stickies.png" alt="Stickies" />
 
 스티커  
 Stickies
@@ -44,7 +44,7 @@ Stickies
 
 <div class="app-icons">
 
-![Notes](./imgs/icons/notes.png)
+<custom-image src="/imgs/icons/notes.png" alt="Notes" />
 
 메모  
 Notes
@@ -53,7 +53,7 @@ Notes
 
 <div class="app-icons">
 
-![Voice Memos](./imgs/icons/voice_memos.png)
+<custom-image src="/imgs/icons/voice_memos.png" alt="Voice Memos" />
 
 음성 메모  
 Voice Memos
@@ -62,7 +62,7 @@ Voice Memos
 
 <div class="app-icons">
 
-![Screenshot](./imgs/icons/screenshot.png)
+<custom-image src="/imgs/icons/screenshot.png" alt="Screenshot" />
 
 스크린샷  
 Screenshot
@@ -71,7 +71,7 @@ Screenshot
 
 <div class="app-icons">
 
-![Safari](./imgs/icons/safari.png)
+<custom-image src="/imgs/icons/safari.png" alt="Safari" />
 
 Safari
 
@@ -94,7 +94,7 @@ Safari
 
 <div class="app-icons">
 
-![Calendar](./imgs/icons/calendar.png)
+<custom-image src="/imgs/icons/calendar.png" alt="Calendar" />
 
 캘린더  
 Calendar
@@ -103,7 +103,7 @@ Calendar
 
 <div class="app-icons">
 
-![Contacts](./imgs/icons/contacts.png)
+<custom-image src="/imgs/icons/contacts.png" alt="Contacts" />
 
 연락처  
 Contacts
@@ -112,7 +112,7 @@ Contacts
 
 <div class="app-icons">
 
-![Mail](./imgs/icons/mail.png)
+<custom-image src="/imgs/icons/mail.png" alt="Mail" />
 
 Mail
 
@@ -120,7 +120,7 @@ Mail
 
 <div class="app-icons">
 
-![Numbers](./imgs/icons/numbers.png)
+<custom-image src="/imgs/icons/numbers.png" alt="Numbers" />
 
 Numbers
 
@@ -128,7 +128,7 @@ Numbers
 
 <div class="app-icons">
 
-![Pages](./imgs/icons/pages.png)
+<custom-image src="/imgs/icons/pages.png" alt="Pages" />
 
 Pages
 
@@ -136,7 +136,7 @@ Pages
 
 <div class="app-icons">
 
-![Keynote](./imgs/icons/keynote.png)
+<custom-image src="/imgs/icons/keynote.png" alt="Keynote" />
 
 Keynote
 
@@ -158,7 +158,7 @@ Keynote
 
 <div class="app-icons">
 
-![Preview](./imgs/icons/preview.png)
+<custom-image src="/imgs/icons/preview.png" alt="Preview" />
 
 미리보기  
 Preview
@@ -167,7 +167,7 @@ Preview
 
 <div class="app-icons">
 
-![Photos](./imgs/icons/photos.png)
+<custom-image src="/imgs/icons/photos.png" alt="Photos" />
 
 사진  
 Photos
@@ -176,7 +176,7 @@ Photos
 
 <div class="app-icons">
 
-![Podcasts](./imgs/icons/podcasts.png)
+<custom-image src="/imgs/icons/podcasts.png" alt="Podcasts" />
 
 팟캐스트  
 Podcasts
@@ -185,7 +185,7 @@ Podcasts
 
 <div class="app-icons">
 
-![iMovie](./imgs/icons/imovie.png)
+<custom-image src="/imgs/icons/imovie.png" alt="iMovie" />
 
 iMovie
 
@@ -193,7 +193,7 @@ iMovie
 
 <div class="app-icons">
 
-![Photo Booth](./imgs/icons/photo_booth.png)
+<custom-image src="/imgs/icons/photo_booth.png" alt="Photo Booth" />
 
 Photo Booth
 
@@ -201,7 +201,7 @@ Photo Booth
 
 <div class="app-icons">
 
-![QuickTime Player](./imgs/icons/quicktime_player.png)
+<custom-image src="/imgs/icons/quicktime_player.png" alt="QuickTime Player" />
 
 QuickTime Player
 
@@ -223,7 +223,7 @@ QuickTime Player
 
 <div class="app-icons">
 
-![Activity Monitor](./imgs/icons/activity_monitor.png)
+<custom-image src="/imgs/icons/activity_monitor.png" alt="Activity Monitor" />
 
 활성 상태 보기  
 Activity Monitor
@@ -232,7 +232,7 @@ Activity Monitor
 
 <div class="app-icons">
 
-![Terminal](./imgs/icons/terminal.png)
+<custom-image src="/imgs/icons/terminal.png" alt="Terminal" />
 
 터미널  
 Terminal
@@ -241,7 +241,7 @@ Terminal
 
 <div class="app-icons">
 
-![Shortcuts](./imgs/icons/shortcuts.png)
+<custom-image src="/imgs/icons/shortcuts.png" alt="Shortcuts" />
 
 단축어  
 Shortcuts
@@ -250,7 +250,7 @@ Shortcuts
 
 <div class="app-icons">
 
-![BootCamp Assistant](./imgs/icons/boot_camp_assistant.png)
+<custom-image src="/imgs/icons/boot_camp_assistant.png" alt="BootCamp Assistant" />
 
 Boot Camp 지원  
 BootCamp Assistant

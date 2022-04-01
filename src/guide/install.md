@@ -15,7 +15,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 01](./imgs/install/macos-bigsur-install-01-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-01-popup.png" alt="Big Sur Install 01" />
 
 </div>
 
@@ -23,7 +23,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 02](./imgs/install/macos-bigsur-install-02-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-02-popup.png" alt="Big Sur Install 02" />
 
 </div>
 
@@ -31,7 +31,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 03](./imgs/install/macos-bigsur-install-03-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-03-popup.png" alt="Big Sur Install 03" />
 
 </div>
 
@@ -40,7 +40,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 04](./imgs/install/macos-bigsur-install-04-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-04-popup.png" alt="Big Sur Install 04" />
 
 </div>
 
@@ -48,7 +48,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 05](./imgs/install/macos-bigsur-install-05-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-05-popup.png" alt="Big Sur Install 05" />
 
 </div>
 
@@ -56,7 +56,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 06](./imgs/install/macos-bigsur-install-06-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-06-popup.png" alt="Big Sur Install 06" />
 
 </div>
 
@@ -64,7 +64,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 07](./imgs/install/macos-bigsur-install-07-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-07-popup.png" alt="Big Sur Install 07" />
 
 </div>
 
@@ -72,7 +72,7 @@ Wi-Fi를 설정합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 08](./imgs/install/macos-bigsur-install-08-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-08-popup.png" alt="Big Sur Install 08" />
 
 </div>
 
@@ -80,7 +80,7 @@ Wi-Fi를 설정합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 09](./imgs/install/macos-bigsur-install-09-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-09-popup.png" alt="Big Sur Install 09" />
 
 </div>
 
@@ -88,7 +88,7 @@ Wi-Fi를 설정합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 10](./imgs/install/macos-bigsur-install-10-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-10-popup.png" alt="Big Sur Install 10" />
 
 </div>
 
@@ -96,7 +96,7 @@ Apple ID로 로그인합니다. 다음에 설정하려면 `Set Up Later`를 선�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 11](./imgs/install/macos-bigsur-install-11-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-11-popup.png" alt="Big Sur Install 11" />
 
 </div>
 
@@ -104,7 +104,7 @@ Apple ID, 패스워드를 입력합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 12](./imgs/install/macos-bigsur-install-12-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-12-popup.png" alt="Big Sur Install 12" />
 
 </div>
 
@@ -112,7 +112,7 @@ Apple ID, 패스워드를 입력합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 13](./imgs/install/macos-bigsur-install-13-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-13-popup.png" alt="Big Sur Install 13" />
 
 </div>
 
@@ -120,7 +120,7 @@ Apple ID, 패스워드를 입력합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 14](./imgs/install/macos-bigsur-install-14-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-14-popup.png" alt="Big Sur Install 14" />
 
 </div>
 
@@ -128,7 +128,7 @@ Apple ID, 패스워드를 입력합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 15](./imgs/install/macos-bigsur-install-15-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-15-popup.png" alt="Big Sur Install 15" />
 
 </div>
 
@@ -136,7 +136,7 @@ iCloud를 설정합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 16](./imgs/install/macos-bigsur-install-16-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-16-popup.png" alt="Big Sur Install 16" />
 
 </div>
 
@@ -144,7 +144,7 @@ Find My를 설정합니다. 한국에서 위치 추적은 (현재) 불가능하�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 17](./imgs/install/macos-bigsur-install-17-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-17-popup.png" alt="Big Sur Install 17" />
 
 </div>
 
@@ -152,7 +152,7 @@ Find My를 설정합니다. 한국에서 위치 추적은 (현재) 불가능하�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 18](./imgs/install/macos-bigsur-install-18-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-18-popup.png" alt="Big Sur Install 18" />
 
 </div>
 
@@ -160,7 +160,7 @@ Find My를 설정합니다. 한국에서 위치 추적은 (현재) 불가능하�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 19](./imgs/install/macos-bigsur-install-19-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-19-popup.png" alt="Big Sur Install 19" />
 
 </div>
 
@@ -168,7 +168,7 @@ Find My를 설정합니다. 한국에서 위치 추적은 (현재) 불가능하�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 20](./imgs/install/macos-bigsur-install-20-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-20-popup.png" alt="Big Sur Install 20" />
 
 </div>
 
@@ -176,7 +176,7 @@ Find My를 설정합니다. 한국에서 위치 추적은 (현재) 불가능하�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 21](./imgs/install/macos-bigsur-install-21-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-21-popup.png" alt="Big Sur Install 21" />
 
 </div>
 
@@ -184,7 +184,7 @@ Siri를 설정 합니다. PC에서는 많이 사용할 일이 없으므로 비�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 22](./imgs/install/macos-bigsur-install-22-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-22-popup.png" alt="Big Sur Install 22" />
 
 </div>
 
@@ -192,7 +192,7 @@ Siri를 설정 합니다. PC에서는 많이 사용할 일이 없으므로 비�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 23](./imgs/install/macos-bigsur-install-23-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-23-popup.png" alt="Big Sur Install 23" />
 
 </div>
 
@@ -200,7 +200,7 @@ Touch ID를 설정합니다. 키보드에 지문 입력이 없다면 생략합�
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 24](./imgs/install/macos-bigsur-install-24-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-24-popup.png" alt="Big Sur Install 24" />
 
 </div>
 
@@ -208,7 +208,7 @@ Touch ID를 설정합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 25](./imgs/install/macos-bigsur-install-25-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-25-popup.png" alt="Big Sur Install 25" />
 
 </div>
 
@@ -216,7 +216,7 @@ Touch ID를 설정합니다.
 
 <div class="image-600 no-radius">
 
-![Big Sur Install 26](./imgs/install/macos-bigsur-install-26-popup.png)
+<custom-image src="/imgs/install/macos-bigsur-install-26-popup.png" alt="Big Sur Install 26" />
 
 </div>
 

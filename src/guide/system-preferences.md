@@ -7,7 +7,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![System Preferences](./imgs/system-preferences/system_preferences_main.png)
+<custom-image src="/imgs/system-preferences/system_preferences_main.png" alt="System Preferences" />
 
 </div>
 

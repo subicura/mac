@@ -21,7 +21,7 @@ image: /imgs/share.png
 
 <div class="image-250 no-radius">
 
-![Finder Menu](./imgs/finder/finder-menu.png)
+<custom-image src="/imgs/finder/finder-menu.png" alt="Finder Menu" />
 
 </div>
 
@@ -29,7 +29,7 @@ image: /imgs/share.png
 
 <div class="image-600 no-radius">
 
-![Tag](./imgs/finder/tag.png)
+<custom-image src="/imgs/finder/tag.png" alt="Tag" />
 
 </div>
 
@@ -41,7 +41,7 @@ Tag 메뉴로 모아서 볼 수 있습니다.
 
 <div class="image-600 no-radius">
 
-![Finders](./imgs/finder/finders.png)
+<custom-image src="/imgs/finder/finders.png" alt="Finders" />
 
 </div>
 
@@ -49,7 +49,7 @@ Tag 메뉴로 모아서 볼 수 있습니다.
 
 <div class="image-600 no-radius">
 
-![Finders](./imgs/finder/merged.png)
+<custom-image src="/imgs/finder/merged.png" alt="Finders" />
 
 </div>
 

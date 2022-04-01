@@ -5,7 +5,7 @@ image: /imgs/share.png
 
 #  > Mac
 
-![MacBook Air 2020](./imgs/index/mac.jpg)
+<custom-image src="/imgs/index/mac.jpg" alt="MacBook Air 2020" />
 
 개발 관련 스터디나 컨퍼런스에서 발표를 듣다 보면 발표 주제와 별도로 **예제 화면이나 라이브 코딩에서 사용하는 개발 도구에 관심**이 가는 경우가 있습니다.
 

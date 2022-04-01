@@ -9,7 +9,7 @@ Mac은 다 비슷하게 생겼기 때문에 겉모습으로는 어떤 모델(연
 
 <div class="image-250 no-radius">
 
-![Apple > About This Mac](./imgs/overview/about-menu.jpg)
+<custom-image src="/imgs/overview/about-menu.jpg" alt="Apple > About This Mac" />
 
 </div>
 
@@ -17,7 +17,7 @@ Mac은 다 비슷하게 생겼기 때문에 겉모습으로는 어떤 모델(연
 
 <div class="image-600 no-radius">
 
-![MacBook Air(M1)](./imgs/overview/macbook-air-m1.png)
+<custom-image src="/imgs/overview/macbook-air-m1.png" alt="MacBook Air(M1)" />
 
 MacBook Air(2020) / Big Sur / Apple Silicon(M1)
 
@@ -27,7 +27,7 @@ MacBook Air(2020) / Big Sur / Apple Silicon(M1)
 
 <div class="image-600 no-radius">
 
-![iMac](./imgs/overview/imac-bigsur.png)
+<custom-image src="/imgs/overview/imac-bigsur.png" alt="iMac" />
 
 iMac(2020) / Big Sur / Intel
 
@@ -35,7 +35,7 @@ iMac(2020) / Big Sur / Intel
 
 <div class="image-600 no-radius">
 
-![MacBook Pro](./imgs/overview/macbook-pro-monterey.png)
+<custom-image src="/imgs/overview/macbook-pro-monterey.png" alt="MacBook Pro" />
 
 MacBook Pro(2019) / Monterey / Intel
 
@@ -49,7 +49,7 @@ MacBook Pro(2019) / Monterey / Intel
 
 ## macOS
 
-![macOS Monterey](./imgs/overview/macos-monterey.jpg)
+<custom-image src="/imgs/overview/macos-monterey.jpg" alt="macOS Monterey" />
 
 macOS(맥 오에스)는 Apple이 개발한 Mac 컴퓨터의 기본 운영 체제<sup>Operating System</sup>입니다. Apple이 하드웨어(Mac)와 소프트웨어(macOS)를 둘 다 만들기 때문에 시스템이 안정적이고 사용자 경험이 좋습니다.
 
@@ -90,7 +90,7 @@ mac의 초기 운영 체제 이름은 `Macintosh System`이었고 이후 Mac OS 
 
 ## Apple Silicon (M1)
 
-![m1](./imgs/overview/m1.jpg)
+<custom-image src="/imgs/overview/m1.jpg" alt="m1" />
 
 Apple은 지난 2020년 11월 Intel을 버리고 M1을 탑재한 MacBook Air, 13형 MacBook Pro 및 Mac mini를 발표했습니다. Apple이 제작한 역대 가장 강력한 칩인 M1은 기존 Mac보다 💰저렴하지만, ⚡️더 빠르고, ❄️발열도 적고, 🔋베터리도 더 오래가는 초초초 사기급의 성능을 보여주고 있습니다.
 
