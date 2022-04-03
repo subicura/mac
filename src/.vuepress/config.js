@@ -76,13 +76,6 @@ module.exports = {
     [
       "link",
       {
-        href: "https://css.gg/css?=|calendar-dates|folder|tag",
-        rel: "stylesheet",
-      },
-    ],
-    [
-      "link",
-      {
         href: "/css/asciinema-player.css",
         rel: "stylesheet",
       },
