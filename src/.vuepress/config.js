@@ -134,23 +134,23 @@ module.exports = {
         nav: [
           {
             text: "👶 Mac 초보 탈출",
-            link: "/guide/",
+            link: "/guide/hello",
           },
           {
             text: "⚙️ 필수 초기 설정",
-            link: "/setup/",
+            link: "/setup/hello",
           },
           {
             text: "💻 개발 환경 설정",
-            link: "/dev/",
+            link: "/dev/hello",
           },
           {
             text: "⭐️ 추천 앱",
-            link: "/apps/",
+            link: "/apps/hello",
           },
           {
             text: "💡 팁",
-            link: "/tip/",
+            link: "/tip/hello",
           },
           // {
           //   text: "영상강의",
@@ -193,7 +193,7 @@ function getGuideSidebar(groupA, groupB) {
     {
       title: "기본 안내",
       collapsable: false,
-      children: ["", "overview", "macos-vs-windows"],
+      children: ["hello", "overview", "macos-vs-windows"],
     },
     {
       title: "기본 가이드",
@@ -224,7 +224,7 @@ function getSetupSidebar(groupA, groupB) {
     {
       title: "시스템 및 파인더 설정",
       collapsable: false,
-      children: ["", "finder", "setting"],
+      children: ["hello", "finder", "setting"],
     },
     {
       title: "한글 설정",
@@ -239,7 +239,7 @@ function getDevSidebar() {
     {
       title: "환경 설정",
       collapsable: false,
-      children: ["", "intel", "apple-silicon", "shell"],
+      children: ["hello", "intel", "apple-silicon", "shell"],
     },
     {
       title: "개발 프로그램",
@@ -254,7 +254,7 @@ function getAppsSidebar() {
     {
       title: "필수 앱",
       collapsable: false,
-      children: [""],
+      children: ["hello"],
     },
     {
       title: "추천 앱",
@@ -269,7 +269,7 @@ function getTipSidebar() {
     {
       title: "사용팁",
       collapsable: false,
-      children: ["", "windows", "recovery", "beta"],
+      children: ["hello", "windows", "recovery", "beta"],
     },
   ];
 }

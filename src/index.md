@@ -3,7 +3,7 @@ home: true
 heroImage: /build/imgs/mac_hero.png
 tagline: 본격 macOS에 개발 환경 구축하기
 actionText: 시작하기 →
-actionLink: /guide/
+actionLink: /guide/hello
 footer: ⓒ 2022 by subicura
 
 description: 초보를 위한 macOS 안내서
@@ -19,19 +19,19 @@ macOS의 기본적인 사용법을 소개하고 터미널부터 각종 앱까지
   <div class="feature">
     <h2>👶 처음 만나는 Mac</h2>
     <p>
-      <p><a href="./guide">Mac 초보 탈출 페이지</a>를 읽고 macOS의 기본 기능, Windows와 차이점등을 알아보세요.</p>
+      <p><a href="./guide/hello">Mac 초보 탈출 페이지</a>를 읽고 macOS의 기본 기능, Windows와 차이점등을 알아보세요.</p>
     </p>
   </div>
   <div class="feature">
     <h2>🧑‍💻 본격 환경 설정</h2>
     <p>
-      Mac의 기본 사용법을 익혔다면, <a href="./setup">필수 초기 설정</a>과 <a href="./dev">개발 환경 설정</a>을 진행합니다.
+      Mac의 기본 사용법을 익혔다면, <a href="./setup/hello">필수 초기 설정</a>과 <a href="./dev/hello">개발 환경 설정</a>을 진행합니다.
     </p>
   </div>
   <div class="feature">
     <h2>🚀 문제가 생겼어요</h2>
     <p>
-      <a href="/mac/tip">macOS 사용팁</a>에 다양한 팁과 해결책을 모았어요.
+      <a href="/mac/tip/hello">macOS 사용팁</a>에 다양한 팁과 해결책을 모았어요.
     </p>
   </div>
 </div>
