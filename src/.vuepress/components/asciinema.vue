@@ -33,12 +33,12 @@ export default {
   mounted() {
     if (!window.asciinema) {
       var css = document.createElement("link");
-      css.href = "/css/asciinema-player.css";
+      css.href = "/mac/css/asciinema-player.css";
       css.rel = "stylesheet";
       document.body.appendChild(css);
 
       var js = document.createElement("script");
-      js.src = "/js/asciinema-player.2.6.1.js";
+      js.src = "/mac/js/asciinema-player.2.6.1.js";
       document.body.appendChild(js);
     }
     this.load();
