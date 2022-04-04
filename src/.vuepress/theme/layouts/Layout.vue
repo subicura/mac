@@ -10,7 +10,7 @@
 
 <script>
 import ParentLayout from '@parent-theme/layouts/Layout.vue';
-import FacebookComment from '@theme/components/FacebookComment.vue'
+import UtterancesComment from '@theme/components/UtterancesComment.vue'
 
 import yuuConfig from '@theme/mixins/yuuConfig.js';
 import themeHandler from '@theme/mixins/themeHandler.js';
@@ -18,7 +18,7 @@ import themeHandler from '@theme/mixins/themeHandler.js';
 export default {
 	components: {
     ParentLayout,
-    FacebookComment,
+    UtterancesComment,
 	},
 	mixins: [yuuConfig, themeHandler],
 	watch: {
