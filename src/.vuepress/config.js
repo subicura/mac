@@ -103,7 +103,7 @@ module.exports = {
     [
       "script",
       {
-        src: "https://cdn.usefathom.com/script.js",
+        src: "https://seemly-courageous.subicura.dev/script.js",
         "data-site": "IZEFXABV",
         "data-spa": "auto",
         defer: "",
