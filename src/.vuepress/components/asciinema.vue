@@ -27,23 +27,46 @@ export default {
   data() {
     return {
       windowTitle: this.title || "terminal",
+      loadCount: 0
     };
   },
   mounted() {
-    const current = document.getElementById(this.id);
-    if (window.asciinema && window.asciinema.player && window.asciinema.player.js) {
-      window.asciinema.player.js.CreatePlayer(current, this.src, {
-        autoPlay: false,
-        loop: false,
-        title: this.title,
-      });
+    if (!window.asciinema) {
+      var css = document.createElement("link");
+      css.href = "/css/asciinema-player.css";
+      css.rel = "stylesheet";
+      document.body.appendChild(css);
+
+      var js = document.createElement("script");
+      js.src = "/js/asciinema-player.2.6.1.js";
+      document.body.appendChild(js);
     }
+    this.load();
   },
   destroyed() {
     const current = document.getElementById(this.id);
     if (window.asciinema && window.asciinema.player && window.asciinema.player.js && current) {
         window.asciinema.player.js.UnmountPlayer(current);
       }
-  }
+  },
+  methods: {
+    load() {
+      if (window.asciinema && window.asciinema.player && window.asciinema.player.js) {
+        const current = document.getElementById(this.id);
+        window.asciinema.player.js.CreatePlayer(current, this.src, {
+          autoPlay: false,
+          loop: false,
+          title: this.title,
+        });
+      } else {
+        setTimeout(() => {
+          if (this.loadCount < 5) {
+            this.load();
+            this.loadCount++;
+          }
+        }, this.loadCount * 100 + 50);
+      }
+    },
+  },
 };
 </script>

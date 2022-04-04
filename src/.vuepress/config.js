@@ -73,19 +73,6 @@ module.exports = {
         color: "#5bbad5",
       },
     ],
-    [
-      "link",
-      {
-        href: "/css/asciinema-player.css",
-        rel: "stylesheet",
-      },
-    ],
-    [
-      "script",
-      {
-        src: "/js/asciinema-player.2.6.1.js",
-      },
-    ],
     ["meta", { name: "theme-color", content: "#3eaf7c" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
