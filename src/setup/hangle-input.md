@@ -20,28 +20,24 @@ macOS의 기본 한/영 전환은 `CapsLock(한/A)`키 또는 `⌃(Ctrl)` + `Spa
 키 맵핑 프로그램으로 `Karabiner-Element`를 사용합니다.
 
 <div class="image-600">
-
-![Apple Beta Software](./imgs/hangle/install-01.jpg)
-
+  <custom-image src="/imgs/hangle/install-01.jpg" alt="Apple Beta Software" />
 </div>
 
 1. [홈페이지](https://karabiner-elements.pqrs.org/)에서 프로그램을 다운로드 합니다.
 
 <div class="image-600">
-
-![Apple Beta Software](./imgs/hangle/privacy-tab.png)
-
+  <custom-image src="/imgs/hangle/privacy-tab.png" alt="Apple Beta Software" />
 </div>
 
 2. 전체 키 입력을 받기 때문에 보안 설정이 까다롭습니다. 각종 보안 설정을 허용합니다.
 
-![Karabiner Element](./imgs/hangle/karabiner-element.png)
+<custom-image src="/imgs/hangle/karabiner-element.png" alt="Karabiner Element" />
 
 3. `caps_lock`을 `F19`로 설정합니다. 이제 `Caps Lock` 키를 누르면 `F19`가 눌리게 됩니다.
 
 <div class="image-600">
 
-![Input Source](./imgs/hangle/input-source-key.png)
+<custom-image src="/imgs/hangle/input-source-key.png" alt="Input Source" />
 
 </div>
 

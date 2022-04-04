@@ -22,9 +22,7 @@ CLI에서 `gcc`나 `python` 같은 명령어를 입력하면 자동으로 다음
 (iTerm 실행 시 설치했다면 skip!)
 
 <div class="image-450 no-radius">
-
-![XCode Install](./imgs/intel/xcode-install.png)
-
+  <custom-image src="/imgs/intel/xcode-install.png" alt="XCode Install" />
 </div>
 
 수동으로 설치하려면 다음 명령어를 입력합니다.

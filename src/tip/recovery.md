@@ -24,44 +24,44 @@ image: /imgs/share.png
 3. macOS Recovery 모드 진입
 4. (선택) 계정을 선택하고 패스워드 입력
 
-![recovery 01](./imgs/recovery/recovery-01.jpg)
+<custom-image src="/imgs/recovery/recovery-01.jpg" alt="recovery" />
 
 1. `Disk Utility` 선택
 
-![recovery 02](./imgs/recovery/recovery-02.jpg)
+<custom-image src="/imgs/recovery/recovery-02.jpg" alt="recovery" />
 
 2. `Macintosh HD(또는 기본 볼륨)` 선택 후 `Erase` 선택
 
-![recovery 03](./imgs/recovery/recovery-03.jpg)
+<custom-image src="/imgs/recovery/recovery-03.jpg" alt="recovery" />
 
 3. `APFS` Format으로 초기화
 4. `Macintosh HD - Data` 볼륨이 보인다면 `-(Volume)` 선택 후 제거
 
-![recovery 04](./imgs/recovery/recovery-04.jpg)
+<custom-image src="/imgs/recovery/recovery-04.jpg" alt="recovery" />
 
 5. `Reinstall` 메뉴 선택
 
-![recovery 05](./imgs/recovery/recovery-05.jpg)
+<custom-image src="/imgs/recovery/recovery-05.jpg" alt="recovery" />
 
 6. `Continue` 선택
 
-![recovery 06](./imgs/recovery/recovery-06.jpg)
+<custom-image src="/imgs/recovery/recovery-06.jpg" alt="recovery" />
 
 7. `Agree` 선택
 
-![recovery 07](./imgs/recovery/recovery-07.jpg)
+<custom-image src="/imgs/recovery/recovery-07.jpg" alt="recovery" />
 
 8. `Agree` 선택
 
-![recovery 08](./imgs/recovery/recovery-08.jpg)
+<custom-image src="/imgs/recovery/recovery-08.jpg" alt="recovery" />
 
 9. `Continue` 선택
 
-![recovery 09](./imgs/recovery/recovery-09.jpg)
+<custom-image src="/imgs/recovery/recovery-09.jpg" alt="recovery" />
 
 10. 설치중
 
-![recovery 10](./imgs/recovery/recovery-10.jpg)
+<custom-image src="/imgs/recovery/recovery-10.jpg" alt="recovery" />
 
 11. 재부팅 후 마무리 작업
 

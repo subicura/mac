@@ -10,9 +10,7 @@ image: /imgs/share.png
 ## Alfred <Badge text="부분 유료" />
 
 <div class="image-600 no-radius">
-
-![Alfred](./imgs/index/alfred.png)
-
+  <custom-image src="/imgs/index/alfred.png" alt="Alfred" />
 </div>
 
 향상된 스팟라이트
@@ -27,7 +25,7 @@ brew install --cask alfred
 
 ## Better Touch Tool <Badge text="유료" />
 
-![Better Touch Tool](./imgs/index/btt.png)
+<custom-image src="/imgs/index/btt.png" alt="Better Touch Tool" />
 
 제스처 커스터마이징 도구
 
@@ -41,7 +39,7 @@ brew install --cask bettertouchtool
 
 ## IINA <Badge text="무료" />
 
-![IINA](./imgs/index/iina.png)
+<custom-image src="/imgs/index/iina.png" alt="IINA" />
 
 다양한 코덱을 지원하는 동영상 플레이어
 
@@ -58,9 +56,7 @@ brew install --cask iina
 ## Keka <Badge text="무료" />
 
 <div class="image-300 no-radius">
-
-![Maccy](./imgs/index/keka.png)
-
+  <custom-image src="/imgs/index/keka.png" alt="keka" />
 </div>
 
 한글 파일명을 잘 지원하는 무료 압축 프로그램
@@ -76,9 +72,7 @@ brew install --cask keka
 ## Maccy <Badge text="무료" />
 
 <div class="image-450 no-radius">
-
-![Maccy](./imgs/index/maccy.png)
-
+  <custom-image src="/imgs/index/maccy.png" alt="Maccy" />
 </div>
 
 클립보드 관리 프로그램

@@ -8,9 +8,7 @@ image: /imgs/share.png
 설정해두면 유용한 시스템 설정을 알아봅니다. macOS Monterey를 기준으로 하였으나 다른 버전도 비슷비슷할 것으로 보입니다. 반드시 동일하게 설정할 필요는 없으며 보고 괜찮다 싶은 항목만 적용하세요.
 
 <div class="image-600 no-radius">
-
-![System Preferences](./imgs/index/system_preferences_main.png)
-
+  <custom-image src="/imgs/index/system_preferences_main.png" alt="System Preferences" />
 </div>
 
 상단 메뉴의 `` 로고를 누르고 `System Preferences...`를 선택합니다.
@@ -22,9 +20,7 @@ image: /imgs/share.png
 ## Dock & Menu Bar
 
 <div class="image-600 no-radius">
-
-![Dock & Menu Bar](./imgs/index/dock_menubar.png)
-
+  <custom-image src="/imgs/index/dock_menubar.png" alt="Dock & Menu Bar" />
 </div>
 
 Dock을 자동으로 감추도록 설정합니다.
@@ -36,9 +32,7 @@ Dock을 자동으로 감추도록 설정합니다.
 ## 미션 컨트롤 <sup>Mission Control</sup>
 
 <div class="image-600 no-radius">
-
-![Mission Control](./imgs/index/mission_control.png)
-
+  <custom-image src="/imgs/index/mission_control.png" alt="Mission Control" />
 </div>
 
 미션 컨트롤 창 순서를 고정합니다.
@@ -63,9 +57,7 @@ Dock을 자동으로 감추도록 설정합니다.
 ## 보안 <sup>Security & Policy</sup>
 
 <div class="image-600 no-radius">
-
-![Security & Policy](./imgs/index/security_policy.png)
-
+  <custom-image src="/imgs/index/security_policy.png" alt="Security & Policy" />
 </div>
 
 패스워드를 잠자기 즉시 입력하도록 설정합니다.
@@ -86,9 +78,7 @@ Dock을 자동으로 감추도록 설정합니다.
 ## 키보드 <sup>Keyboard</sup>
 
 <div class="image-600 no-radius">
-
-![Keyboard (Text)](./imgs/index/keyboard_text.png)
-
+  <custom-image src="/imgs/index/keyboard_text.png" alt="Keyboard (Text)" />
 </div>
 
 모든 텍스트 자동 변경 옵션을 끕니다.
@@ -98,9 +88,7 @@ Dock을 자동으로 감추도록 설정합니다.
 - 특히 Use smart quotes and dashes는 코드 복사하다가 따옴표가 바뀌면서 고생이 시작됩니다..
 
 <div class="image-600 no-radius">
-
-![Keyboard (Shortcuts)](./imgs/index/keyboard_shortcuts.png)
-
+  <custom-image src="/imgs/index/keyboard_shortcuts.png" alt="Keyboard (Shortcuts)" />
 </div>
 
 컨트롤 버튼(예, 아니오 등) 키보드로 제어하도록 설정합니다.
@@ -111,9 +99,7 @@ Dock을 자동으로 감추도록 설정합니다.
 ## 트랙패트 <sup>Trackpad</sup>
 
 <div class="image-600 no-radius">
-
-![Trackpad](./imgs/index/trackpad.png)
-
+  <custom-image src="/imgs/index/trackpad.png" alt="Trackpad" />
 </div>
 
 클릭을 터치로 설정합니다.
@@ -124,9 +110,7 @@ Dock을 자동으로 감추도록 설정합니다.
 ## 접근성 <sup>Accessibility</sup>
 
 <div class="image-600 no-radius">
-
-![Accessibility](./imgs/index/accessibility.png)
-
+  <custom-image src="/imgs/index/accessibility.png" alt="Accessibility" />
 </div>
 
 드래그를 세 손가락으로 가능하도록 설정합니다.

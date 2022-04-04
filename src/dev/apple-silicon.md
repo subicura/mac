@@ -11,9 +11,7 @@ Intel 사용자는 [패키지 관리자 (Intel)](./index) 페이지를 확인하
 :::
 
 <div class="image-600">
-
-![M1](./imgs/apple-silicon/m1.jpg)
-
+  <custom-image src="/imgs/apple-silicon/m1.jpg" alt="M1" />
 </div>
 
 2020년 11월 Intel 대신 M1 CPU가 탑재된 Mac이 등장하고 개발 환경에 작은(?) 변화가 생겼습니다. 생각보다 빠르게 많은 개발 도구들이 M1을 지원하기 시작했지만 아직은 혼란스러운 상황으로 설정이 조금 복잡해졌습니다.
@@ -71,7 +69,7 @@ softwareupdate --install-rosetta --agree-to-license
 
 ### 활성 상태 보기<sup>Activity Monitor</sup>
 
-![Activity Monitor](./imgs/apple-silicon/activity-monitor.png)
+<custom-image src="/imgs/apple-silicon/activity-monitor.png" alt="Activity Monitor" />
 
 현재 애플리케이션이 어떤 아키텍처로 동작하는지(Rosetta를 사용한 건지) 확인하려면 Active Monitor를 확인하세요.
 
@@ -85,9 +83,7 @@ softwareupdate --install-rosetta --agree-to-license
 터미널 프로그램(Terminal 또는 iTerm2) 아이콘에서 오른쪽 버튼 누르고 `Get Info`를 선택하고 `Open using Rosetta`를 체크합니다.
 
 <div class="image-350 no-radius">
-
-![iTerm Info](./imgs/apple-silicon/iterm-info.png)
-
+  <custom-image src="/imgs/apple-silicon/iterm-info.png" alt="iTerm Info" />
 </div>
 
 이제 터미널 명령어가 x86_64기반으로 실행됩니다.
@@ -95,9 +91,7 @@ softwareupdate --install-rosetta --agree-to-license
 그.런.데 매번 `Open using Rosetta`를 껐다 켤 수는 없으므로 앱을 복사하여 2개를 설정합니다.
 
 <div class="image-450 no-radius">
-
-![iTerm Info](./imgs/apple-silicon/iterms.png)
-
+  <custom-image src="/imgs/apple-silicon/iterms.png" alt="iTerm App" />
 </div>
 
 1. `Applications` 폴더의 `iTerm` 아이콘에서 오른쪽 버튼 누르고 `복제`<sup>Duplicate</sup>를 선택합니다.
@@ -117,18 +111,14 @@ softwareupdate --install-rosetta --agree-to-license
 지금 사용 중인 터미널의 프로세서 아키텍처를 iTerm 상태바에 추가합니다.
 
 <div class="image-600 no-radius">
-
-![iTerm arm64](./imgs/apple-silicon/iterm-arm64.png)
-![iTerm x86_64](./imgs/apple-silicon/iterm-x86_64.png)
-
+  <custom-image src="/imgs/apple-silicon/iterm-arm64.png" alt="iTerm arm64" />
+  <custom-image src="/imgs/apple-silicon/iterm-x86_64.png" alt="iTerm x86_64" />
 </div>
 
 iTerm에서 Shell 정보를 가져오도록 `iTerm2` > `Install Shell Integration`을 선택합니다.
 
 <div class="image-600 no-radius">
-
-![iTerm Shell](./imgs/apple-silicon/iterm-shell.png)
-
+  <custom-image src="/imgs/apple-silicon/iterm-shell.png" alt="iTerm Shell" />
 </div>
 
 ::: tip 스크립트 추가하기
@@ -154,17 +144,17 @@ EOF
 
 이제 iTerm 관련 프로필을 설정합니다.
 
-![iTerm Terminal](./imgs/apple-silicon/iterm-teminal.png)
+<custom-image src="/imgs/apple-silicon/iterm-teminal.png" alt="iTerm Terminal" />
 
 `Shell Integration`을 하면 쉘 프롬프트에 삼각형 마커가 추가되는데 불필요하므로 제거합니다.
 
 - `Profiles` > `Terminal`: Show mark indicators 체크 해제
 
-![iTerm Statusbar](./imgs/apple-silicon/iterm-statusbar.png)
+<custom-image src="/imgs/apple-silicon/iterm-statusbar.png" alt="iTerm Statusbar" />
 
 `Status Bar`에서 `Interpolated String`를 드래그하여 추가합니다.
 
-![iTerm Statusbar Detail](./imgs/apple-silicon/iterm-statusbar-detail.png)
+<custom-image src="/imgs/apple-silicon/iterm-statusbar-detail.png" alt="iTerm Statusbar Detail" />
 
 `Configure Component`를 선택하고 `String Value`에 `🅲 \(user.cpu)`를 입력합니다. 그 외에 사이즈나 우선순위등을 변경합니다.
 
@@ -231,9 +221,7 @@ CLI에서 `gcc`나 `python` 같은 명령어를 입력하면 자동으로 다음
 (iTerm 실행 시 설치했다면 skip!)
 
 <div class="image-450 no-radius">
-
-![XCode Install](./imgs/intel/xcode-install.png)
-
+  <custom-image src="/imgs/intel/xcode-install.png" alt="XCode Install" />
 </div>
 
 수동으로 설치하려면 다음 명령어를 입력합니다.

@@ -62,9 +62,7 @@ oh-my-zsh의 기본 테마인 `robbyrussell`도 깔끔하지만, 이 외에 다�
 ### Powerlevel10k <Badge text="추천" type="info"/>
 
 <div class="image-600 no-radius">
-
-![Powerlevel10k](./imgs/shell/powerlevel10k.png)
-
+  <custom-image src="/imgs/shell/powerlevel10k.png" alt="Powerlevel10k" />
 </div>
 
 ```sh
@@ -82,9 +80,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 ### spaceship(설정귀찮으면 추천)
 
 <div class="image-600 no-radius">
-
-![spaceship](./imgs/shell/spaceship.png)
-
+  <custom-image src="/imgs/shell/spaceship.png" alt="spaceship" />
 </div>
 
 ```sh
@@ -101,9 +97,7 @@ ZSH_THEME="spaceship"
 ### pure
 
 <div class="image-600 no-radius">
-
-![pure](./imgs/shell/pure.png)
-
+  <custom-image src="/imgs/shell/pure.png" alt="pure" />
 </div>
 
 ```sh

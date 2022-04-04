@@ -181,40 +181,8 @@ module.exports = {
         hostname: "https://subicura.com",
       },
     ],
-    [
-      "@vuepress/last-updated",
-      {
-        transformer: (timestamp, _lang) => {
-          var d = new Date(timestamp),
-            month = "" + (d.getMonth() + 1),
-            day = "" + d.getDate(),
-            year = d.getFullYear();
-
-          if (month.length < 2) month = "0" + month;
-          if (day.length < 2) day = "0" + day;
-
-          return [year, month, day].join("-");
-        },
-      },
-    ],
+    ["@vuepress/last-updated", false],
     [require("./plugins/vuepress-plugin-autometa.js"), autometa_options],
-    [
-      "mermaidjs",
-      {
-        sequence: {
-          mirrorActors: false,
-          actorFontFamily:
-            "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace, 'Pretendard'",
-          actorFontWeight: "bold",
-          noteFontFamily:
-            "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace, 'Pretendard'",
-          noteFontWeight: "normal",
-          messageFontFamily:
-            '"Pretendard", "Apple SD Neo Gothic", "Malgun Gothic", "맑은고딕", Dotum, "돋움", BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif',
-          messageFontWeight: "normal",
-        },
-      },
-    ],
   ],
 };
 

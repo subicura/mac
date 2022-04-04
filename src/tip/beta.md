@@ -14,33 +14,25 @@ macOS 베타를 설치하려면 Apple 베타 소프트웨어 프로그램 가입
 ## Apple 베타 소프트웨어 프로그램
 
 <div class="image-600 no-radius">
-
-![Apple Beta Software](./imgs/beta/beta-web.jpg)
-
+  <custom-image src="/imgs/beta/beta-web.jpg" alt="Apple Beta Software" />
 </div>
 
 1. [Apple 베타 소프트웨어 프로그램](https://beta.apple.com/sp/ko/betaprogram/)에 가입
 
 <div class="image-600 no-radius">
-
-![Apple Beta Software](./imgs/beta/beta-guide.jpg)
-
+  <custom-image src="/imgs/beta/beta-guide.jpg" alt="Apple Beta Software" />
 </div>
 
 2. `시작하기` > `Mac을 등록` 링크 선택
 
 <div class="image-600 no-radius">
-
-![Apple Beta Software](./imgs/beta/beta-guide-detail.jpg)
-
+  <custom-image src="/imgs/beta/beta-guide-detail.jpg" alt="Apple Beta Software" />
 </div>
 
 3. `Mac 등록하기` > `macOS 공개 베타 액세스 유틸리티 다운로드` 선택
 
 <div class="image-600 no-radius">
-
-![Apple Beta Software](./imgs/beta/beta-install.png)
-
+  <custom-image src="/imgs/beta/beta-install.png" alt="Apple Beta Software" />
 </div>
 
 4. 프로그램 다운로드 후 설치
@@ -48,17 +40,13 @@ macOS 베타를 설치하려면 Apple 베타 소프트웨어 프로그램 가입
 최종 설치가 완료되면 `Software Update` 화면이 다음과 같이 변경됩니다.
 
 <div class="image-600 no-radius">
-
-![Before](./imgs/beta/before.png)
-
+  <custom-image src="/imgs/beta/before.png" alt="Before" />
 </div>
 
 기존엔 베타를 다운로드할 수 없지만,
 
 <div class="image-600 no-radius">
-
-![After](./imgs/beta/after.png)
-
+  <custom-image src="/imgs/beta/after.png" alt="After" />
 </div>
 
 베타 액세스 유틸리티 설치 후 베타 업그레이드가 가능합니다.

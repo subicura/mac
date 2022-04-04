@@ -7,7 +7,7 @@ image: /imgs/share.png
 
 ## neovim
 
-![SpaceVim](./imgs/terminal-app/spacevim.png)
+<custom-image src="/imgs/terminal-app/spacevim.png" alt="SpaceVim" />
 
 vim은 기본으로 설치된 터미널용 에디터로 GUI 환경의 에디터를 사용할 수 있는 macOS 환경에서는 일부 고오오급 개발자를 제외하고는 잘 쓰이지 않습니다. 하지만 터미널 작업을 하다 보면 간단하게 수정할 파일이 있고 git 커밋메시지를 작성할 때 종종 사용하게 됩니다.
 
@@ -72,7 +72,7 @@ curl https://gist.githubusercontent.com/subicura/91696d2da58ad28b5e8b2877193015e
 
 vi를 실행하고 폰트가 `?`로 깨져 보인다면 iTerm2에 개발 관련 폰트를 모은 NerdFont를 추가로 설정합니다.
 
-![iTerm2 Font](./imgs/terminal-app/iterm-font.png)
+<custom-image src="/imgs/terminal-app/iterm-font.png" alt="iTerm2 Font" />
 
 iTerm2를 실행하고 설정(`⌘` + `,`)창에서 `Profiles` 항목을 선택하고 `Text`탭을 선택합니다. Font항목에서 `Use a different font for non-ASCII text`를 체크하고 MesloLGS NF를 선택하면 폰트가 이쁘게 나옵니다.
 
@@ -84,7 +84,7 @@ iTerm2를 실행하고 설정(`⌘` + `,`)창에서 `Profiles` 항목을 선택�
 
 fzf는 강력하고 엄청나게 빠른 fuzzy finder 도구입니다. 증분 검색을 통하여 원하는 파일이나 히스토리를 쉽고 빠르게 찾을 수 있게 해줍니다. 정확하게 원하는 값을 입력하지 않고 일부만 입력해도 실시간으로 검색 결과를 보여줍니다.
 
-![SpaceVim](./imgs/terminal-app/fzf-sample-2.png)
+<custom-image src="/imgs/terminal-app/fzf-sample-2.png" alt="fzf" />
 
 **설치**
 
@@ -225,9 +225,7 @@ asdf global nodejs 16.8.0
 ## jq
 
 <div class="image-600 no-radius">
-
-![iTerm2 Font](./imgs/terminal-app/jq.png)
-
+  <custom-image src="/imgs/terminal-app/jq.png" alt="jq" />
 </div>
 
 JSON 결과를 이쁘게 보여주고 원하는 대로 편집할 수 있는 도구입니다. 간단하게 필터를 적용하여 원하는 항목만 볼 수 있고 특정 결과를 다른 형태로 변경할 수 있습니다.
@@ -243,9 +241,7 @@ brew install jq
 ## bat
 
 <div class="image-600 no-radius">
-
-![iTerm2 Font](./imgs/terminal-app/bat.png)
-
+  <custom-image src="/imgs/terminal-app/bat.png" alt="bat" />
 </div>
 
 cat명령어에 코드 하이라이팅 + more 기능이 추가된 버전입니다.

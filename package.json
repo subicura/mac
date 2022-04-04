@@ -21,8 +21,7 @@
     "imagemin-jpegtran": "^7.0.0",
     "imagemin-pngquant": "^9.0.2",
     "imagemin-webp": "^7.0.0",
-    "vuepress": "^1.5.3",
-    "vuepress-plugin-mermaidjs": "^1.8.1"
+    "vuepress": "^1.5.3"
   },
   "dependencies": {
     "lodash.defaultsdeep": "^4.6.1",

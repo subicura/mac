@@ -14,27 +14,21 @@ image: /imgs/share.png
 ## 공통 설정
 
 <div class="image-450 no-radius">
-
-![Finder Preferences (General)](./imgs/finder/finder_preferences_general.png)
-
+  <custom-image src="/imgs/finder/finder_preferences_general.png" alt="Finder Preferences (General)" />
 </div>
 
 - `General` > `New Finder windows show`: subicura (home folder)
 - 기본값인 `최근 본 파일` 옵션은 파인더 실행 시 버벅대면서 늦게 열릴 때가 있습니다. 버벅이지 않도록 기본 폴더를 홈 폴더로 설정합니다.
 
 <div class="image-450 no-radius">
-
-![Finder Preferences (Advanced)](./imgs/finder/finder_preferences_advanced.png)
-
+  <custom-image src="/imgs/finder/finder_preferences_advanced.png" alt="Finder Preferences (Advanced)" />
 </div>
 
 - `Advanced` > `Show all filename extensions`: 체크함
 - 모든 파일의 확장자를 보여줍니다.
 
 <div class="image-600 no-radius">
-
-![Finder Path Bar](./imgs/finder/finder-path.png)
-
+  <custom-image src="/imgs/finder/finder-path.png" alt="Finder Path Bar" />
 </div>
 
 - 파인더 하단에 현재 경로를 표시하고 싶다면 파인더 App 메뉴에서 `View` > `Show Path Bar` 선택합니다.
@@ -46,9 +40,7 @@ image: /imgs/share.png
 ### 정렬 변경
 
 <div class="image-300 no-radius">
-
-![Download Folder Preferences](./imgs/finder/downloads.png)
-
+  <custom-image src="/imgs/finder/downloads.png" alt="Download Folder Preferences" />
 </div>
 
 - `Group By`:Date added, `Sort By`:Name
