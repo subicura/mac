@@ -32,7 +32,7 @@ oh-my-zsh의 가장 강력한 점은 플러그인입니다. [기본 플러그인
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 
 # zsh-autosuggestions
-git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
 
 플러그인을 설치하면 반드시 `~/.zshrc`파일에 설정을 해야 합니다. 파일을 열고 `plugins`항목에 플러그인을 추가합니다.
