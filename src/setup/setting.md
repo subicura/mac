@@ -9,7 +9,7 @@ macOS는 각종 설정을 보통 `~/Library/Preferences` 폴더에 `.plist` 파�
 
 ## 스크립트 실행
 
-터미널을 열고 다음 명령어를 입력하여 [시스템 설정](./index)과 [파인더 설정](./finder)에 나온 대부분의 내용을 한 번에 설정할 수 있습니다.
+터미널을 열고 다음 명령어를 입력하여 [시스템 설정](./hello)과 [파인더 설정](./finder)에 나온 대부분의 내용을 한 번에 설정할 수 있습니다.
 
 ```sh
 /bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/subicura/settings/main/macos/system_setting.zsh)"
